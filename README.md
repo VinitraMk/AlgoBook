@@ -1,5 +1,5 @@
 # AlgoBook
-Following sortin algorithms have been implemented in c++.
+Following sorting algorithms have been implemented in c++.
 
 ####Sorting
     1. Bubble Sort
