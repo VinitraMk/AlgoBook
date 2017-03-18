@@ -1,6 +1,6 @@
 # AlgoBook
 A collection of useful algorithms and data structures. 
-Following algorithms have been implemented in c++.
+Following greedy algorithms have been implemented in java. 
 
 #### Greedy 
 
