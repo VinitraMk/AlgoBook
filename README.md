@@ -2,7 +2,7 @@
 A collection of useful algorithms and data structures. 
 Following algorithms have been implemented in c++.
 
-####Sorting
+#### Sorting
 
     1. Bubble Sort
     2. Insertion Sort
