@@ -10,6 +10,3 @@ Following greedy algorithms have been implemented in java.
     4. Minimum Spanning Tree (Kruskal's Algorithm)
     5. Minimum Spanning Tree (Primm's Algorithm)
 
-
-
-
