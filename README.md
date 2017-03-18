@@ -2,7 +2,7 @@
 A collection of useful algorithms and data structures. 
 Following algorithms have been implemented in c++.
 
-#### Sorting
+#### Greedy 
 
     1. Fractional Knapsack
     2. Job Sequencing with deadlines 
