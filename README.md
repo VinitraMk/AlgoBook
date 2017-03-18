@@ -1,7 +1,7 @@
 # AlgoBook
 Following sorting algorithms have been implemented in c++.
 
-####Sorting
+#### Sorting
 
     1. Bubble Sort
     2. Insertion Sort
