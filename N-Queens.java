@@ -61,5 +61,4 @@ class Main
         for (i=row, j=col; j>=0 && i<n; i++, j--)      if (board[i][j] == 1)    return false;
         return true;
     }
-    
 }
