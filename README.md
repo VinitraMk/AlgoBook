@@ -22,5 +22,19 @@ Following algorithms have been implemented in c++.
     4. Minimum Spanning Tree (Kruskal's Algorithm)
     5. Minimum Spanning Tree (Primm's Algorithm)
 
+#### Backtracking
+
+    1. Subset Sum Problem
+    2. N Queens
+    3. Graph Coloring
+    4. Rat in a maze
+
+#### Dynamic Programming
+
+    1. 0-1 Knapsack
+    2. Rod Cutting
+    3. Longest Common Subsequence
+    4. Longest Increasing Subsequence
+
 
 
