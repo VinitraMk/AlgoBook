@@ -8,6 +8,7 @@ Following DP algorithms have been implemented in c++.
     2. Rod cutting
     3. Longest Common Subsequence
     4. Longest Increasing Subsequence 
+    5. Kadane
 
 
 
