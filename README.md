@@ -1,6 +1,5 @@
 # AlgoBook
 A collection of useful algorithms and data structures. 
-Following greedy algorithms have been implemented in java. 
 
 #### Greedy Algorithms
 
@@ -23,6 +22,7 @@ Following greedy algorithms have been implemented in java.
     2. Rod Cutting
     3. Longest Common Subsequence
     4. Longest Increasing Subsequence
+
 
 
 
