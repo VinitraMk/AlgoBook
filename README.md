@@ -10,11 +10,8 @@ A collection of useful algorithms and data structures.
     5. Minimum Spanning Tree (Primm's Algorithm)
 
 #### Backtracking
-
     1. Subset Sum Problem
     2. N Queens
-    3. Graph Coloring
-    4. Rat in a maze
 
 #### Dynamic Programming
 
