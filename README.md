@@ -42,6 +42,8 @@ A collection of useful algorithms and data structures.
 7. Miscellaneous
     1. [Longest Subarray with sum atmost k](./misc/longsub.cpp)
     2. [No of ordered pairs with sum divisible by k](./misc/divsum.cpp)
+    3. [No of pairs of anagrams in an array](./misc/anagram.java)
+    4. [No of ordered triplets with ration k in array](./misc/tripletgm.cpp)
 
 
 
