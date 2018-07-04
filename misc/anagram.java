@@ -21,34 +21,34 @@ class anagram{
         }
 
         int c=0;
+        Arrays.sort(a,0,n);
+        int dp[] = new int[n];
+        Arrays.fill(dp,0,n,0);
 
-        for(i=0;i<n-1;i++) {
-            for(j=i+1;j<n;j++) {
-                if(a[i].length()!=a[j].length())
-                    continue;
-                else {
-                    int m=a[i].length();
-                    int co[] = new int[26];
-                    Arrays.fill(co,0,26,0);
-                    int f=0;
-                    for(k=0;k<m;k++) {
-                        co[a[i].charAt(k)-'a']++;
-                        co[a[j].charAt(k)-'a']--;
+        for(i=1;i<n;i++) {
+            if(a[i].length()!=a[i-1].length())
+                dp[i]=0;
+            else {
+                int co[]=new int[26];
+                Arrays.fill(co,0,26,0);
+                int m=a[i].length();
+                int f=0;
+                for(j=0;j<m;j++) {
+                    co[a[i-1].charAt(j)-'a']++;
+                    co[a[i].charAt(j)-'a']--;
+                }
+                for(j=0;j<26;j++) {
+                    if(co[j]!=0) {
+                        f=1;
+                        break;
                     }
-                    for(k=0;k<26;k++) {
-                        if(co[k]!=0) {
-                            f=1;
-                            break;
-                        }
-                    }
-                    if(f==0) {
-                        System.out.println(a[i]+" and "+a[j]+" are anagrams ");
-                        c++;
-                    }
+                }
+                if(f==0) {
+                    System.out.println(a[i]+" and "+a[i-1]+" are anagrams.");
+                    dp[i]=dp[i-1]+1;
                 }
             }
         }
-        System.out.println(c);
 	}
 }
 
