@@ -1,4 +1,4 @@
-/*Print the last digit of the power of a to b*/
+/* Print the last digit of the power of a to b */
 #include<iostream>
 #include<cstdio>
 #include<cstring>
