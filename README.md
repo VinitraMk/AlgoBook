@@ -30,6 +30,7 @@ A collection of useful algorithms and data structures.
 
 5. Trees
     1. [Tree Traversal](./trees/Tree.java)
+    2. [Check if tree is balanced](./trees/chkbal.cpp)
    
 6. Solution Search Algorithms
     1. [A\* Search](./solsearch/astar.java)
@@ -44,6 +45,12 @@ A collection of useful algorithms and data structures.
     2. [No of ordered pairs with sum divisible by k](./misc/divsum.cpp)
     3. [No of pairs of anagrams in an array](./misc/anagram.java)
     4. [No of ordered triplets with ration k in array](./misc/tripletgm.cpp)
+    5. [No of inversions in array](./misc/inversion.cpp)
+    6. [Last digit of a^b](./misc/lastdigofpowab.cpp)
+    7. [Getting a median in a sliding window over an array](./misc/notification.cpp)
+
+8. Linked List
+    1. [Sort linked list containing 0,1,2](./linkedlist/llcountsort.cpp)
 
 
 
