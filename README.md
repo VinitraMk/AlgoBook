@@ -51,6 +51,7 @@ A collection of useful algorithms and data structures.
 
 8. Linked List
     1. [Sort linked list containing 0,1,2](./linkedlist/llcountsort.cpp)
+    2. [Given sorted LL A & B, construct LL C having elements from A not in B](./linkedlist/alink-blink.cpp)
 
 
 
