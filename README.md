@@ -31,6 +31,9 @@ A collection of useful algorithms and data structures.
 5. Trees
     1. [Tree Traversal](./trees/Tree.java)
     2. [Check if tree is balanced](./trees/chkbal.cpp)
+    3. [Check if tree is BST](./trees/bstchk.cpp)
+    4. [Convert BST to Doubly Linked List](./trees/dlltobst.cpp)
+    5. [Convert Linked List to BST](./trees/lltobst.cpp)
    
 6. Solution Search Algorithms
     1. [A\* Search](./solsearch/astar.java)
@@ -48,11 +51,13 @@ A collection of useful algorithms and data structures.
     5. [No of inversions in array](./misc/inversion.cpp)
     6. [Last digit of a^b](./misc/lastdigofpowab.cpp)
     7. [Getting a median in a sliding window over an array](./misc/notification.cpp)
+    8. [All combinations of N balanced parenthesis](./misc/parenbal.cpp)
 
 8. Linked List
     1. [Sort linked list containing 0,1,2](./linkedlist/llcountsort.cpp)
     2. [Given sorted LL A & B, construct LL C having elements from A not in B](./linkedlist/alink-blink.cpp)
 
-
-
+9. Graph
+    1. [No of connected components in a graph](./graph/noconcomp.cpp)
+    2. [No of islands in a boolean matrix](./graph/noofislands.cpp)
 
