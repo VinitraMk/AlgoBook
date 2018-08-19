@@ -34,6 +34,10 @@ A collection of useful algorithms and data structures.
     3. [Check if tree is BST](./trees/bstchk.cpp)
     4. [Convert BST to Doubly Linked List](./trees/dlltobst.cpp)
     5. [Convert Linked List to BST](./trees/lltobst.cpp)
+    6. [Lca of 2 nodes in a binary tree](./trees/lcabin.cpp)
+    7. [Lca of 2 nodes in a binary search tree](./trees/lcabst.cpp)
+    8. [Diameter of Binary Tree](./trees/binheight.cpp);
+    9. [Diameter of N-ary tree](./trees/narydiam.cpp)
    
 6. Solution Search Algorithms
     1. [A\* Search](./solsearch/astar.java)
@@ -47,17 +51,26 @@ A collection of useful algorithms and data structures.
     1. [Longest Subarray with sum atmost k](./misc/longsub.cpp)
     2. [No of ordered pairs with sum divisible by k](./misc/divsum.cpp)
     3. [No of pairs of anagrams in an array](./misc/anagram.java)
-    4. [No of ordered triplets with ration k in array](./misc/tripletgm.cpp)
+    4. [No of ordered triplets with ratio k in array](./misc/tripletgm.cpp)
     5. [No of inversions in array](./misc/inversion.cpp)
     6. [Last digit of a^b](./misc/lastdigofpowab.cpp)
     7. [Getting a median in a sliding window over an array](./misc/notification.cpp)
     8. [All combinations of N balanced parenthesis](./misc/parenbal.cpp)
+    9. [Print a spiral matrix](./misc/spiralmat.cpp)
+    10. [Print the next higher palindrome after N](./misc/nextpalin.cpp)
+    11. [Remove duplicates from a string in place](./misc/remdupstr.cpp)
 
 8. Linked List
     1. [Sort linked list containing 0,1,2](./linkedlist/llcountsort.cpp)
     2. [Given sorted LL A & B, construct LL C having elements from A not in B](./linkedlist/alink-blink.cpp)
+    3. [Reverse a linked list (Iterative Method)](./linkedlist/itrreverll.cpp)
+    4. [Reverse a linked list (Recursive Method)](./linkedlist/recreverll.cpp)
+    5. [Reverse every k nodes of a linked list](./linkedlist/reverseknodesll.cpp)
+    6. [Reverse every k nodes of a linked list (Method 2)](./linkedlist/revknodesmeth2.cpp)
 
 9. Graph
     1. [No of connected components in a graph](./graph/noconcomp.cpp)
     2. [No of islands in a boolean matrix](./graph/noofislands.cpp)
 
+10. Searching
+    1. [Pivoted Binary Search](./searching/pivotbinsearch.cpp)
