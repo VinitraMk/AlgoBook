@@ -38,6 +38,7 @@ A collection of useful algorithms and data structures.
     7. [Lca of 2 nodes in a binary search tree](./trees/lcabst.cpp)
     8. [Diameter of Binary Tree](./trees/binheight.cpp);
     9. [Diameter of N-ary tree](./trees/narydiam.cpp)
+    10. [Traverse tree in a zig-zag manner](./trees/zigzagtree.cpp)
    
 6. Solution Search Algorithms
     1. [A\* Search](./solsearch/astar.java)
